@@ -15,7 +15,7 @@ GLIDE performs linear inversions of thermochronological ages to estimate spatial
 - Thermal parameters
 - Other nacessary constraints
 
-Model outputs include posterior exhumation-rate distributions, reduced variance, temporal resolution, and predicted thermochronological ages. Model outputs include posterior exhumation-rate distributions, reduced variance, temporal resolution, and predicted thermochronological ages. In addition, two utility Python scripts are provided for result visualization and DEM downloading as .xyz topography files.
+Model outputs include posterior exhumation-rate distributions, reduced variance, temporal resolution, and predicted thermochronological ages. In addition, two utility Python scripts are provided for result visualization and DEM downloading as .xyz topography files.
 
 A case study from the Shanxi Rift system (after Wang et al., 2025) is also provided, including example inputs and outputs. For using details, see Manual.pdf in the repository.
 
@@ -25,7 +25,7 @@ Fox, M., Herman, F., Willett, S.D., May, D.A., 2014. A linear inversion method t
 
 Willett, S.D., Herman, F., Fox, M., et al., 2021. Bias and error in modelling thermochronometric data. Earth Surface Dynamics, 9, 1153–1221. https://doi.org/10.5194/esurf-9-1153-2021
 
-Ren, G.S., Han, X., Dai, J.G., Yu, Z.C., Fox, M.., 2026. A Python-based optimization of the linear inversion method for thermochronological exhumation rates. Submitted to Computers & Geosciences.
+Ren, G.S., Han, X., Dai, J.G., Yu, Z.C., Fox, M.., 2026. A Python-based optimization of the linear inversion method for thermochronological exhumation rates. Unpublished.
 
 ## Citation
 
