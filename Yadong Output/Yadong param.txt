@@ -1,0 +1,39 @@
+# output path (folder)
+D:/GLIDE2.0/Yadong Output
+
+# topography file (.xyz)
+D:/GLIDE2.0/data/Yadong.xyz
+
+# thermochron data (.csv)
+D:/GLIDE2.0/data/Yadong.csv
+
+# west / east / south / north boundary (°)
+88.5 90 27 28.5
+
+# spatial resolution expected for model (km)
+3
+
+# mean prior exhumation rate & one sigma (km/Myr)
+0.3 0.10
+
+# correlation length (km)
+10
+
+# time steps & total time (Myr)
+2 16
+
+# iterations
+5
+
+# model depth (km)
+30
+
+# temperature at the sea level & bottom (°C)
+15 765
+
+# heat diffusivity (km2/Myr) & heat production(°C/Myr)
+25 0
+
+# adiabatic rate (°C/km)
+6
+

@@ -1,0 +1,213 @@
+Sample_id,Ref_id,sample_name,lithology,rock_type,horizon,geological_time,latitude,longitude,elevation,age,std,method
+8368,L2253,BH109,bedrock,others,,,27.44222,89.39972,2400,6.1,0.4,AFT
+8373,L2253,F05,paragneiss,Metarhyolite,Greater Himalayan Sequence,,27.02737,89.57415,1881,6.7,0.8,AFT
+8371,L2253,F07,quartzite,ignerous,Paro,,27.18909,89.55243,2153,3.5,0.6,AFT
+8375,L2253,F08,Gneiss,Metarhyolite,Greater Himalayan Sequence ,,27.49029,89.74884,3113,4.1,0.7,AFT
+8377,L2253,F09,Amphibolite,ignerous,,,27.5124,89.796,1953,3.7,0.7,AFT
+8381,L2253,F13,bedrock,others,,,27.29079,89.9861,881,1.4,0.5,AFT
+8378,L2253,F14,bedrock,others,,,27.45064,89.90648,1192,2.8,0.7,AFT
+8380,L2253,F16,bedrock,others,,,27.50643,89.96202,1399,2.2,0.5,AFT
+8374,L2253,F17,bedrock,others,,,27.44172,89.6952,2524,2.6,0.6,AFT
+6408,L832,JG042416-4,Migmatite,Metarhyolite,,,27.8376,88.986,4501,14.18,1.48,AFT
+6409,L832,JG042416-6,Basic granulite,ignerous,,,27.8791,88.9778,4744,15.37,1.43,AFT
+6411,L832,JG042216-8,Granite,ignerous,,,27.5104,88.9672,3570,8,0.78,AFT
+6412,L832,JG042216-9,Granite,ignerous,,,27.5243,88.9767,3413,9.41,1.09,AFT
+6414,L832,JG042316-4,Granitic gneiss,ignerous,,,27.3771,88.9762,2691,7.73,0.83,AFT
+6415,L832,JG042316-5,Granitic gneiss,ignerous,,,27.4121,88.9485,2847,6.27,0.79,AFT
+6416,L832,JG042316-7,Granite,ignerous,,,27.5257,88.9118,3141,13.22,1.48,AFT
+6418,L832,JG042116-4,Granite,ignerous,,,27.7306,89.2059,4830,14.94,1.71,AFT
+6443,L2168,KY1-5 ,Granitic gneiss,ignerous,,,27.4273,88.8828,3854,5.8,0.4,AFT
+6446,L2168,KY1-11,Granite,ignerous,,,27.4309,88.9134,3219,5.9,0.3,AFT
+6447,L2168,KY1-12,Granite,ignerous,,,27.4339,88.9147,3112,4.5,0.2,AFT
+6448,L2168,KY1-13,Granite,ignerous,,,27.4403,88.9185,3031,4.3,0.1,AFT
+7469,L1113,TB-19,granite,ignerous,,,28.1962,89.7009,5294,9.26,0.79,AFT
+7470,L1113,TB-17,granite,ignerous,,,28.1981,89.7033,5190,9.52,0.76,AFT
+7471,L1113,TB-15,granite,ignerous,,,28.2015,89.7041,5090,9.87,0.87,AFT
+7472,L1113,TB-13,granite,ignerous,,,28.2063,89.7048,4897,8.03,0.67,AFT
+7473,L1113,TB-12,granite,ignerous,,,28.2101,89.7048,4771,6.29,0.59,AFT
+7474,L1113,TB-11,granite,ignerous,,,28.2112,89.7058,4690,8.53,1.1,AFT
+8069,L2241,BT0987,pelitic schist,Metarhyolite,,,27.4652,89.51972,2805,5.89,0.19,AFT
+8070,L2241,BT0988,Orthogneisss,Metarhyolite,,,27.44978,89.52432,2655,5.9,0.495,AFT
+8071,L2241,BT0989,pelitic schist,Metarhyolite,,,27.42062,89.55662,2405,6.4,0.9,AFT
+8216,L2247,BH161,Migmatite,Metarhyolite,Greater Himalayan Sequence ,,28.02333,89.51372,4086,4.2,0.6,AFT
+8217,L2247,BH163,Migmatite,Metarhyolite,Greater Himalayan Sequence ,,28.06583,89.58878,4177,4.8,3,AFT
+8218,L2247,BH164,Leucogranite,ignerous,Greater Himalayan Sequence ,,28.06222,89.60957,4248,4.5,0.6,AFT
+8219,L2247,BH211,Augengneiss,Metarhyolite,Greater Himalayan Sequence ,,28.1714,89.80578,4400,5.3,0.4,AFT
+8221,L2247,BH284,Quartzite,ignerous,Greater Himalayan Sequence ,,28.14491,89.72347,4189,6.3,3,AFT
+8233,L2247,BH406,Migmatite,Metarhyolite,Greater Himalayan Sequence ,,27.52181,89.82001,1700,3,0.4,AFT
+8234,L2247,BH408,Micaschist,Metarhyolite,Greater Himalayan Sequence ,,27.50177,89.7538,2625,2.4,0.3,AFT
+8235,L2247,BH409,Gneiss,Metarhyolite,Greater Himalayan Sequence ,,27.48373,89.76088,2910,4.3,0.4,AFT
+8236,L2247,BH411,Migmatite,Metarhyolite,Greater Himalayan Sequence ,,27.46156,89.41996,2339,4.7,0.5,AFT
+8237,L2247,BH412,Gneiss,Metarhyolite,Jaishidanda Fm. ,,27.45803,89.41937,2480,4.8,0.3,AFT
+8238,L2247,BH413,Quartzite,ignerous,Greater Himalayan Sequence ,,27.34339,89.47229,2320,3.8,0.3,AFT
+8239,L2247,BH415,Migmatite,Metarhyolite,Greater Himalayan Sequence ,,27.49078,89.74973,3123,3.7,0.3,AFT
+8240,L2247,BH416,Augcngnciss,Metarhyolite,Greater Himalayan Sequence ,,27.47863,89.72231,2640,5.9,0.1,AFT
+8241,L2247,BH417,Gneiss,Metarhyolite,Jaishidanda Fm. ,,27.44078,89.695,2640,5,0.3,AFT
+8242,L2247,BH424,Quartzite,ignerous,Jaishidanda Fm. ,,27.38741,89.42762,2500,4,0.7,AFT
+8243,L2247,BH426,Quartzite,ignerous,Jaishidanda Fm. ,,27.37223,89.37143,3390,5.5,1.1,AFT
+8245,L2247,BH430,Leucogranitc dyke in quartzite,ignerous,Jaishidanda Fm. ,,27.37169,89.34159,3970,3.3,0.6,AFT
+8246,L2247,BH431,sedimentary,sedimentary,Greater Himalayan Sequence ,,27.37272,89.31352,3600,5,0.9,AFT
+8247,L2247,BH436,Migmatite,Metarhyolite,Greater Himalayan Sequence ,,27.07518,89.55313,2230,6.9,0.5,AFT
+8248,L2247,BH437,Migmatite,Metarhyolite,Jaishidanda Fm. ,,27.1306,89.55054,2550,7.9,0.6,AFT
+8249,L2247,BH438,Micaschist,Metarhyolite,Greater Himalayan Sequence ,,27.15421,89.54089,2470,5.9,0.5,AFT
+8250,L2247,BH651,Lcucogranitc,ignerous,Greater Himalayan Sequence ,,27.69862,89.29044,3540,3.9,0.4,AFT
+8251,L2247,BH683,Augengneiss,Metarhyolite,Greater Himalayan Sequence ,,27.97138,89.51613,4400,5.2,0.3,AFT
+8252,L2247,BH686,Gneiss,Metarhyolite,Greater Himalayan Sequence ,,28.03493,89.55855,5008,3.9,0.5,AFT
+8253,L2247,BH687,Gneiss,Metarhyolite,Greater Himalayan Sequence ,,28.04786,89.56281,4720,4.2,0.3,AFT
+8254,L2247,BH689,Migmatite,Metarhyolite,Greater Himalayan Sequence ,,28.06487,89.58826,4145,3.6,0.3,AFT
+8255,L2247,BH695,Migmatite,Metarhyolite,,,28.06862,89.62974,3795,4.8,0.5,AFT
+8256,L2247,02-102F,sedimentary,sedimentary,,,27.3146,89.5485,2116,6.2,0.4,AFT
+8258,L2247,02-232F,sedimentary,sedimentary,,,27.78538,89.80645,3086,2.3,0.3,AFT
+8259,L2247,02-235F,sedimentary,sedimentary,Lesser Himalayan Sequence ,,27.73522,89.74823,1669,2.2,0.3,AFT
+8264,L2247,BHF05,Gneiss,Metarhyolite,Greater Himalayan Sequence ,,27.02737,89.57415,1864,6.5,0.8,AFT
+8265,L2247,BHF06,Gneiss,Metarhyolite,Jaishidanda Fm. ,,27.06583,89.55721,1539,5.9,0.6,AFT
+8266,L2247,BHF07,Micaschist,Metarhyolite,Greater Himalayan Sequence ,,27.18909,89.55243,2153,6.2,0.6,AFT
+8367,L2253,BH299,bedrock,others,,,27.79572,89.33608,4729,4.4,0.5,AFT
+8372,L2253,F06,bedrock,others,,,27.06583,89.55721,1545,6.5,0.8,AFT
+8376,L2253,BH171,bedrock,others,,,27.69294,89.77081,1440,2.3,0.5,AFT
+8379,L2253,F10,bedrock,others,,,27.36351,89.91159,1044,3.8,0.6,AFT
+8382,L2253,F13b,bedrock,others,,,27.29079,89.9861,881,4.1,1.5,AFT
+8483,L2258,ISIK12,Mylonitic granite,ignerous,Daling Fm.,,27.1022,88.5507,1540,5.6,0.5,AFT
+8484,L2258,ISIK13,Migmatite,Metarhyolite,Greater Himalayan Sequence Fm. ,,27.0745,88.6655,1939,4.2,0.5,AFT
+8485,L2258,ISIK14,Schist and quartzite,Metarhyolite,Daling Fm. ,,27.2424,88.5226,458,1.9,0.3,AFT
+8486,L2258,ISIK20,Migmatite Orthogneisss,Metarhyolite,Greater Himalayan Sequence Fm. ,,27.3369,88.6271,1846,2.3,0.3,AFT
+8487,L2258,ISIK24,Pegmatite,ignerous,Greater Himalayan Sequence Fm. ,,27.5961,88.6488,1676,1.7,0.3,AFT
+8488,L2258,ISIK25,Leucogranite,ignerous,Greater Himalayan Sequence Fm. ,,27.6237,88.6186,1812,1.4,0.2,AFT
+8489,L2258,ISIK27,Leucogranite,ignerous,Greater Himalayan Sequence Fm. ,,27.8385,88.5507,3641,3.7,0.2,AFT
+8490,L2258,ISIK28,Migmatite,Metarhyolite,Greater Himalayan Sequence Fm. ,,27.8256,88.548,3400,3.2,0.4,AFT
+8491,L2258,ISIK29,Quartzite,ignerous,Greater Himalayan Sequence Fm. ,,27.7689,88.5418,3166,2.7,0.3,AFT
+9215,L2041,QZ_08,Fine-grained monzonite granite,ignerous,,Miocene,27.51313,88.96617,3382,5,0.5,AFT
+9216,L2041,QZ-09,Biotite plagioclase gneiss,Metarhyolite,,Proterozoic,27.4323,88.90783,3356,7.6,0.6,AFT
+6420,L2167,Y2,Gneiss,Metarhyolite,,,27.4209,88.9331,2841,8.4,0.9,ZFT
+6421,L2167,Y3,Granitic gneiss,ignerous,,,27.4378,88.9239,2868,10,0.9,ZFT
+6422,L2167,Y4,Gneiss,Metarhyolite,,,27.4344,88.9098,3495,9.7,1.3,ZFT
+6423,L2167,Y5,Granitic gneiss,ignerous,,,27.4291,88.9118,3401,10,0.7,ZFT
+6424,L2167,Y6,Granitic gneiss,ignerous,,,27.4275,88.9147,3240,12,1.2,ZFT
+5218,L893,MZN-7-1,granitic gneiss,ignerous,,,28.36398,88.99933,5450,16,1,ZFT
+5219,L893,MZN-7-3,granitic gneiss,ignerous,,,28.36613,88.9947,5230,11,1,ZFT
+5220,L893,MZN-7-6,granitic gneiss,ignerous,,,28.37016,88.98974,5050,17,1,ZFT
+6425,L2167,Y7,Granitic gneiss,ignerous,,,27.4359,88.9184,3067,9.2,1,ZFT
+6426,L2167,Y8,Granitic gneiss,ignerous,,,27.4526,88.9164,2910,10.2,1,ZFT
+6427,L2167,Y9,Granite,ignerous,,,27.486,88.9063,2955,9.4,0.8,ZFT
+6428,L2167,Y10,Granite,ignerous,,,27.5038,88.9032,3028,9.4,1.4,ZFT
+6429,L2167,Y11,Granite,ignerous,,,27.5224,88.9147,3129,11.5,1.4,ZFT
+6430,L2167,Y12 ,Granite,ignerous,,,27.5384,88.9266,3181,9.1,1.3,ZFT
+6431,L2167,Y13 ,Granite,ignerous,,,27.5551,88.9305,3258,8.2,0.7,ZFT
+6432,L2167,Y14 ,Granitic gneiss,ignerous,,,27.5699,88.915,3296,9,0.7,ZFT
+6433,L2167,Y15,Gneiss,Metarhyolite,,,27.5884,88.909,3413,8.8,1.1,ZFT
+6434,L2167,Y17,Metasandstone,Metarhyolite,,,27.6302,88.9229,3752,12.1,0.9,ZFT
+6435,L2167,Y18-2,granite,ignerous,,,27.7534,88.9766,3990,13.4,1,ZFT
+6436,L2167,Y19,Gneiss,Metarhyolite,,,27.7912,88.9993,4256,14,1.7,ZFT
+6437,L2167,Y20,Gneiss,Metarhyolite,,,27.8343,88.9882,4513,11.9,1.1,ZFT
+8069,L2241,BT0987,pelitic schist,Metarhyolite,,,27.4652,89.51972,2805,6.89,0.33,ZFT
+8070,L2241,BT0988,Orthogneisss,Metarhyolite,,,27.44978,89.52432,2655,6.62,0.24,ZFT
+8071,L2241,BT0989,pelitic schist,Metarhyolite,,,27.42062,89.55662,2405,6.63,0.21,ZFT
+8233,L2247,BH406,Migmatite,Metarhyolite,Greater Himalayan Sequence ,,27.52181,89.82001,1700,10.6,1.4,ZFT
+8234,L2247,BH408,Micaschist,Metarhyolite,Greater Himalayan Sequence ,,27.50177,89.7538,2625,8.1,1,ZFT
+8235,L2247,BH409,Gneiss,Metarhyolite,Greater Himalayan Sequence ,,27.48373,89.76088,2910,11.3,0.9,ZFT
+8236,L2247,BH411,Migmatite,Metarhyolite,Greater Himalayan Sequence ,,27.46156,89.41996,2339,8.1,0.9,ZFT
+8237,L2247,BH412,Gneiss,Metarhyolite,Jaishidanda Fm. ,,27.45803,89.41937,2480,7.9,1.1,ZFT
+8238,L2247,BH413,Quartzite,ignerous,Greater Himalayan Sequence ,,27.34339,89.47229,2320,10.3,0.8,ZFT
+8239,L2247,BH415,Migmatite,Metarhyolite,Greater Himalayan Sequence ,,27.49078,89.74973,3123,11.2,0.8,ZFT
+8242,L2247,BH424,Quartzite,ignerous,Jaishidanda Fm. ,,27.38741,89.42762,2500,9.3,1,ZFT
+8243,L2247,BH426,Quartzite,ignerous,Jaishidanda Fm. ,,27.37223,89.37143,3390,10,1.1,ZFT
+8244,L2247,BH428,Quartzite,ignerous,Jaishidanda Fm.,,27.377,89.84515,3675,13.5,1.6,ZFT
+8430,L2255,SK69,Gneiss,Metarhyolite,,,27.9119,88.5367,4795,6.5,0.85,ZFT
+8431,L2255,SK70,Migmatite gneiss,Metarhyolite,,,27.9067,88.5362,4510,6.99,0.99,ZFT
+8432,L2255,SK71,Migmatite gneiss,Metarhyolite,,,27.9047,88.5369,4370,7.61,0.55,ZFT
+8433,L2255,SK72,leucogranite,ignerous,,,27.9011,88.5368,4151,6.91,1.04,ZFT
+8572,L2261,BH109,quartzite,ignerous,Paro,,27.44222,89.39972,2400,6.4,0.22,ZHe
+8577,L2261,F05,paragneiss,Metarhyolite,Greater Himalayan Sequence,,27.02737,89.57415,1881,7.66,0.26,ZHe
+8575,L2261,F07,quartzite,ignerous,Paro,,27.18909,89.55243,2153,7.7,0.36,ZHe
+4998,L819,K1,leucogranite,ignerous,,,28.20088,89.67276,4770,8.78,1.54,ZHe
+4999,L819,K2,leucogranite,ignerous,,,28.20399,89.66723,4620,7.97,1.61,ZHe
+5000,L819,K3,leucogranite,ignerous,,,28.1992,89.65721,4680,8.61,1.08,ZHe
+5001,L819,K4,leucogranite,ignerous,,,28.20254,89.65744,4560,7.8,0.43,ZHe
+4994,L819,P1,leucogranite,ignerous,,,27.87603,89.28637,5700,11.22,1.42,ZHe
+4995,L819,P2,leucogranite,ignerous,,,27.87226,89.28663,5550,10.46,1.04,ZHe
+4996,L819,P3,leucogranite,ignerous,,,27.87177,89.28526,5450,10.88,0.65,ZHe
+4997,L819,P4,leucogranite,ignerous,,,27.87198,89.28382,5350,9.58,0.05,ZHe
+5243,L894,YD-32,gneiss,Metarhyolite,,,28.18353,89.57421,4934,6.48,0.4,ZHe
+5244,L894,YD-33,Granite,ignerous,,,27.9152,89.28622,4841,8.7,0.63,ZHe
+5245,L894,YD-29,Granite,ignerous,,,27.72761,89.21096,4721,9.02,1.2,ZHe
+6443,L2168,KY1-5 ,Granitic gneiss,ignerous,,,27.4273,88.8828,3854,6.3,0.3,ZHe
+6444,L2168,KY1-7,Granite,ignerous,,,27.4381,88.9013,3639,6.8,0.3,ZHe
+6445,L2168,KY1-9,Granite,ignerous,,,27.4377,88.9097,3464,6.8,0.3,ZHe
+6447,L2168,KY1-12,Granite,ignerous,,,27.4339,88.9147,3112,5.6,0.3,ZHe
+6449,L2168,KY1-14,Granite,ignerous,,,27.4433,88.9229,2874,6.4,0.4,ZHe
+8219,L2247,BH211,Augengneiss,Metarhyolite,Greater Himalayan Sequence ,,28.1714,89.80578,4400,8.67,0.31,ZHe
+8220,L2247,BH260,Migmatite,Metarhyolite,Greater Himalayan Sequence ,,28.07293,89.7222,3773,10.44,0.61,ZHe
+8233,L2247,BH406,Migmatite,Metarhyolite,Greater Himalayan Sequence ,,27.52181,89.82001,1700,6.15,0.08,ZHe
+8264,L2247,BHF05,Gneiss,Metarhyolite,Greater Himalayan Sequence ,,27.02737,89.57415,1864,7.74,0.44,ZHe
+8429,L2255,SK55,leucogranite,ignerous,,,28.0095,88.7067,5261,15.18,1.56,ZHe
+8539,L2261,BU07-73,quartzite,ignerous,Paro,,27.02925,89.5805,1895,13.26,0.42,ZHe
+8540,L2261,BU07-75,quartzite,ignerous,Paro,,27.152,89.54175,2265,8.05,0.26,ZHe
+8541,L2261,BU07-76,quartzite,ignerous,Paro,,27.22606,89.51678,2020,3.06,0.08,ZHe
+8542,L2261,BU07-79,quartzite,ignerous,Paro,,27.33758,89.57497,2188,6.6,0.2,ZHe
+8562,L2261,BU11-01,paragneiss,Metarhyolite,Greater Himalayan Sequence,,27.02924,89.58273,1860,9.06,0.36,ZHe
+8563,L2261,BU11-02,paragneiss,Metarhyolite,Greater Himalayan Sequence,,27.0663,89.5565,1545,8.35,0.26,ZHe
+8565,L2261,BH-411,paragneiss,Metarhyolite,Greater Himalayan Sequence,,27.46156,89.41996,2335,6.42,0.22,ZHe
+8566,L2261,BH-424,quartzite,ignerous,Paro,,27.38741,89.42762,2274,6.8,0.22,ZHe
+8567,L2261,BH-432,quartzite,ignerous,Paro,,27.36241,89.30901,3042,6.87,0.26,ZHe
+8568,L2261,BH-413,quartzite,ignerous,Paro,,27.34339,89.47229,2182,6.99,0.22,ZHe
+8569,L2261,BH-415,Orthogneisss,Metarhyolite,Greater Himalayan Sequence,,27.49078,89.74973,3123,6.03,0.2,ZHe
+8570,L2261,BH  401,Orthogneisss,Metarhyolite,Greater Himalayan Sequence,,27.504,89.99908,1483,5.03,0.16,ZHe
+8214,L2247,BH109,Schist,Metarhyolite,Jaishidanda Fm. ,,27.44222,89.39972,2400,5.1,0.1,AHe
+8267,L2247,F08,Gneiss,Metarhyolite,Greater Himalayan Sequence ,,27.49029,89.74884,3113,5.4,0.8,AHe
+8268,L2247,F09,Amphibolite,ignerous,,,27.5124,89.796,1953,2.9,0.2,AHe
+4998,L819,K1,leucogranite,ignerous,,,28.20088,89.67276,4770,8.71,0.7,AHe
+5000,L819,K3,leucogranite,ignerous,,,28.1992,89.65721,4680,8.53,0.24,AHe
+6420,L2167,Y2,Gneiss,Metarhyolite,,,27.4209,88.9331,2841,5.9,1,AHe
+6421,L2167,Y3,Granitic gneiss,ignerous,,,27.4378,88.9239,2868,6.6,0.7,AHe
+6423,L2167,Y5,Granitic gneiss,ignerous,,,27.4291,88.9118,3401,7.7,0.4,AHe
+6424,L2167,Y6,Granitic gneiss,ignerous,,,27.4275,88.9147,3240,7,0.5,AHe
+5233,L894,YD-05,Glandolitic gneiss,Metarhyolite,,,27.87937,89.02302,4923,11.23,1.11,AHe
+5234,L894,YD-06,gneiss,Metarhyolite,,,27.87689,88.9781,4699,10.06,0.54,AHe
+5235,L894,YD-17,Granite,ignerous,,,27.69555,88.90137,4138,8.34,2.27,AHe
+5236,L894,YD-27,Granite,ignerous,,,27.60716,89.04023,4071,7.92,1.33,AHe
+5237,L894,YD-41,gneiss,Metarhyolite,,,27.53281,88.92514,3130,5.78,2.58,AHe
+5238,L894,YD-19,Granitic mylonite,ignerous,,,27.50117,88.94869,3108,4.87,1.85,AHe
+5239,L894,YD-39,gneiss,Metarhyolite,,,27.48631,88.90641,2958,5.27,0.82,AHe
+5240,L894,YD-38,augen gneiss,Metarhyolite,,,27.47409,88.89361,3179,8.08,1.81,AHe
+5241,L894,YD-36,gneiss,Metarhyolite,,,27.42274,88.93254,2860,5.65,0.36,AHe
+5242,L894,YD-08,Granite,ignerous,,,27.37251,88.97357,2755,7.35,1.33,AHe
+5243,L894,YD-32,gneiss,Metarhyolite,,,28.18353,89.57421,4934,6.13,0.4,AHe
+5244,L894,YD-33,Granite,ignerous,,,27.9152,89.28622,4841,8.18,0.32,AHe
+5245,L894,YD-29,Granite,ignerous,,,27.72761,89.21096,4721,8.77,0.19,AHe
+6407,L832,JG042416-3,Granite,ignerous,,,27.7854,88.9936,4173,11.18,0.96,AHe
+6410,L832,JG042316-9,Granite,ignerous,,,27.6038,88.9166,3552,5.65,1.17,AHe
+6413,L832,JG042316-2,Schist,Metarhyolite,,,27.3627,88.9715,2819,5.84,0.89,AHe
+6415,L832,JG042316-5,Granitic gneiss,ignerous,,,27.4121,88.9485,2847,5.05,0.13,AHe
+6417,L832,JG042116-3,Granite,ignerous,,,27.7285,89.2089,4749,9.15,0.04,AHe
+6418,L832,JG042116-4,Granite,ignerous,,,27.7306,89.2059,4830,9.92,1.75,AHe
+6419,L832,JG042116-7,Granite,ignerous,,,27.7302,89.2013,4680,9.57,0.93,AHe
+6425,L2167,Y7,Granitic gneiss,ignerous,,,27.4359,88.9184,3067,6.4,1.6,AHe
+6426,L2167,Y8,Granitic gneiss,ignerous,,,27.4526,88.9164,2910,6.2,2.3,AHe
+6427,L2167,Y9,Granite,ignerous,,,27.486,88.9063,2955,7,0.4,AHe
+6428,L2167,Y10,Granite,ignerous,,,27.5038,88.9032,3028,4.2,0.4,AHe
+6429,L2167,Y11,Granite,ignerous,,,27.5224,88.9147,3129,5.5,0.7,AHe
+6433,L2167,Y15,Gneiss,Metarhyolite,,,27.5884,88.909,3413,4.5,1.5,AHe
+6434,L2167,Y17,Metasandstone,Metarhyolite,,,27.6302,88.9229,3752,7.3,0.6,AHe
+6435,L2167,Y18-2,granite,ignerous,,,27.7534,88.9766,3990,10.6,0.4,AHe
+6436,L2167,Y19,Gneiss,Metarhyolite,,,27.7912,88.9993,4256,11.1,0.7,AHe
+6443,L2168,KY1-5 ,Granitic gneiss,ignerous,,,27.4273,88.8828,3854,7.4,0.4,AHe
+6447,L2168,KY1-12,Granite,ignerous,,,27.4339,88.9147,3112,5.3,0.3,AHe
+6448,L2168,KY1-13,Granite,ignerous,,,27.4403,88.9185,3031,5.8,0.5,AHe
+6450,L2170,05YD-3,granitic gneisses,ignerous,,,27.3687,88.9548,3149,6.5,0.6,AHe
+6451,L2170,05YD-8,granitic gneisses,ignerous,,,27.3769,88.9762,2721,8,1,AHe
+8215,L2247,BH111b,Schist,Metarhyolite,Greater Himalayan Sequence ,,27.449,89.42323,2283,4.9,0.1,AHe
+8216,L2247,BH161,Migmatite,Metarhyolite,Greater Himalayan Sequence ,,28.02333,89.51372,4086,5.5,3.3,AHe
+8217,L2247,BH163,Migmatite,Metarhyolite,Greater Himalayan Sequence ,,28.06583,89.58878,4177,5.7,0.8,AHe
+8219,L2247,BH211,Augengneiss,Metarhyolite,Greater Himalayan Sequence ,,28.1714,89.80578,4400,4.6,1.3,AHe
+8221,L2247,BH284,Quartzite,ignerous,Greater Himalayan Sequence ,,28.14491,89.72347,4189,3.6,0.5,AHe
+8222,L2247,BH287,Marbble,Metarhyolite,Lesser Himalayan Sequence ,,28.10946,89.68955,3874,2.6,0.3,AHe
+8235,L2247,BH409,Gneiss,Metarhyolite,Greater Himalayan Sequence ,,27.48373,89.76088,2910,5.4,0.6,AHe
+8237,L2247,BH412,Gneiss,Metarhyolite,Jaishidanda Fm. ,,27.45803,89.41937,2480,5.1,0.1,AHe
+8241,L2247,BH417,Gneiss,Metarhyolite,Jaishidanda Fm. ,,27.44078,89.695,2640,5,0.4,AHe
+8247,L2247,BH436,Migmatite,Metarhyolite,Greater Himalayan Sequence ,,27.07518,89.55313,2230,6.3,0.5,AHe
+8248,L2247,BH437,Migmatite,Metarhyolite,Jaishidanda Fm. ,,27.1306,89.55054,2550,6.8,0.3,AHe
+8249,L2247,BH438,Micaschist,Metarhyolite,Greater Himalayan Sequence ,,27.15421,89.54089,2470,6.5,0.4,AHe
+8254,L2247,BH689,Migmatite,Metarhyolite,Greater Himalayan Sequence ,,28.06487,89.58826,4145,3.2,0.4,AHe
+8256,L2247,02-102F,sedimentary,sedimentary,,,27.3146,89.5485,2116,6,0.3,AHe
+8257,L2247,02-104F,sedimentary,sedimentary,,,27.49077,89.7626,2852,6.5,1.2,AHe
+8259,L2247,02-235F,sedimentary,sedimentary,Lesser Himalayan Sequence ,,27.73522,89.74823,1669,2.7,0.2,AHe
