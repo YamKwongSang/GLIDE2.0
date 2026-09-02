@@ -1,0 +1,409 @@
+Sample_id,Ref_id,sample_name,lithology,rock_type,horizon,geological_time,latitude,longitude,elevation,age,std,method
+5882,L2154,5,sandstone,sedimentary,,Triassic,30.79,102.73,2677,37.7,4.8,AFT
+5883,L2154,8,sandstone,sedimentary,,Triassic,30.85,102.66,3951,59.4,6.8,AFT
+5884,L2154,9,sandstone,sedimentary,,Triassic,30.94,102.65,3443,42.1,7.6,AFT
+1527,72437,BX-13,Granite,ignerous,,Proterozoic,30.5289,102.913,1416,3.8,0.8,AFT
+5090,L810,HS11,sandstone,sedimentary,,Devonian,31.963,104.663,612,86.4,6.6,AFT
+5091,L810,HS12,sandstone,sedimentary,,Silurian ,32.129,104.794,675,56.7,6.5,AFT
+5093,L810,HS14,granite,ignerous,,Mesozoic ,32.471,104.716,1246,72.8,5.8,AFT
+5094,L810,HS15,sandstone,sedimentary,,Devonian,32.433,104.531,865,40.8,4.1,AFT
+1057,187827,L1-1,sandstone,sedimentary,Jiaguan Fm.,Early Cretaceous,30.74712,103.49374,689,104,7,AFT
+5650,L2206,Lm-12,sandstone,sedimentary,,,31.253,103.871,1590,36.2,4.6,AFT
+1871,141057,WC02,granite,ignerous,,,31.14047,103.68473,1037,7,1,AFT
+4866,L2006,Z25,Siltstone,sedimentary,,Triassic,31.40083,104.01567,892,66,9,AFT
+589,76282,CW-14,Sedimentary,sedimentary,,Late Jurassic,31.03849,103.99072,800,140,24,AFT
+609,L1797,0735-2,Sedimentary,sedimentary,,Jurassic,30.69765,104.52556,431,40.3,6,AFT
+616,L1797,0935-5,Sedimentary,sedimentary,,Jurassic,30.90995,103.72705,670,145.5,19.4,AFT
+738,75569,A2-060,sandtone,sedimentary,,Silurian,31.62856,104.22166,926,18,3,AFT
+747,75569,A1-059,sandstone,sedimentary,,Ediacaran,31.6524,104.20736,1165,14,2,AFT
+748,75569,A3-061,sandstone,sedimentary,Lianhuakou Fm.,Late Jurassic,31.58723,104.41083,597,108,10,AFT
+1050,187827,JLG-4,sandstone,sedimentary,Shaximiao Fm.,Middle Jurassic,30.81881,103.40417,953,37,3,AFT
+1051,187827,L27-14,sandstone,sedimentary,Lianhuakou Fm.,Early Jurassic,31.11307,103.96842,777,75,7,AFT
+1052,187827,L28-3,sandstone,sedimentary,Baitianba Fm. ,Late Jurassic,30.68634,103.3981,886,30,3,AFT
+1053,187827,L28-17,sandstone,sedimentary,Shaximiao Fm.,Middle Jurassic,30.68482,103.40739,853,64,5,AFT
+1054,187827,L28-28,sandstone,sedimentary,Penghuakou Fm.,Early Jurassic,30.68425,103.4199,827,69,6,AFT
+1055,187827,L28-31,sandstone,sedimentary,Penghuakou Fm.,Early Jurassic,30.68084,103.43526,739,122,7,AFT
+1056,187827,L30-1,sandstone,sedimentary,Shaximiao Fm.,Middle Jurassic,30.74755,103.45449,743,66,4,AFT
+1058,187827,L1-6,sandstone,sedimentary,Jiaguan Fm.,Early Cretaceous,30.7484,103.53,668,116,8,AFT
+1064,187827,L8-1,sandstone,sedimentary,Xujiahe Fm. ,Early Triassic,31.04382,103.51149,851,20,2,AFT
+1065,187827,L8-2,Gneiss Granite,ignerous,,,31.0696,103.48419,902,11,2,AFT
+1870,141057,WC01,sandstone,sedimentary,,,31.14047,103.68473,1037,24,2,AFT
+1872,141057,WC22,sandstone,sedimentary,,,32.16845,104.79987,761,36,4,AFT
+1873,141057,WC24,granite,ignerous,,,32.20348,104.84752,866,39,4,AFT
+1874,141057,WC29,granite,ignerous,,,31.06477,103.49143,847.9,16,4,AFT
+2052,68394,LK-4,sandstone,sedimentary,,,31.47,104.154,659,8.1,0.8,AFT
+2053,68394,JH-5,sandstone,sedimentary,,,31.41,104.022,1090,6.4,0.6,AFT
+2054,68394,WCH-6,sandstone,sedimentary,,,31.052,103.48,884,8.4,1.2,AFT
+2079,68394,WCH-7,sandstone,sedimentary,,Jurassic-Cretaceous,31.061,103.693,726,69.1,8.2,AFT
+2080,68394,JH-3,sandstone,sedimentary,,Jurassic-Cretaceous,31.36,104.022,888,7.1,0.9,AFT
+2081,68394,JH-4,sandstone,sedimentary,,Jurassic-Cretaceous,31.356,104.021,874,8,0.9,AFT
+3089,35145,CY92-1,Sedimentary,sedimentary,,Late Triassic,30.86526,103.94197,-1590.23,33.6,1.65,AFT
+3090,35145,CY92-2,Sedimentary,sedimentary,,Late Triassic,30.86526,103.94197,-2201.83,22.6,0.8,AFT
+3091,35145,CY92-3,Sedimentary,sedimentary,,Late Triassic,30.86526,103.94197,-3921.83,4.3,0.3,AFT
+4770,L774,ZH-11FT,sandstone ,sedimentary,,Triassic,32.2333,102.6,4260,17.1,2.3,AFT
+4771,L774,ZH-13FT,Granite ,ignerous,,Triassic,32.2167,102.75,4833,17.6,1.4,AFT
+4772,L774,ZH-14FT-1,Granite ,ignerous,,Triassic,32.2333,102.7833,3699,10.9,1.9,AFT
+4773,L774,ZH-15FT,Granite ,ignerous,,Triassic,32.2667,102.85,3175,9.5,1.2,AFT
+4774,L774,ZH-16FT,Granite ,ignerous,,Triassic,32.1667,102.9167,2665,9.7,1.2,AFT
+4775,L774,ZH-17FT,sandstone ,sedimentary,,Triassic,32.0667,103.1333,2171,7.6,1.2,AFT
+4776,L774,ZH-18FT,sandstone ,sedimentary,,Triassic,31.9833,103.3167,1889,9.5,1.1,AFT
+4777,L774,ZH-20FT,sandstone ,sedimentary,,Cambrian,31.7333,103.8333,1660,6.9,1.5,AFT
+4778,L774,ZH-21FT,Mylonite ,Metarhyolite,,Silurian,31.7,103.85,1582,3,0.6,AFT
+4779,L774,1201-90,Mylonite ,Metarhyolite,,Proterozoic,31.256,103.7881,1118,19.3,3.1,AFT
+4792,L774,LS1-02,sandstone ,sedimentary,,Triassic,31.2324,103.8618,-3667,3.3,0.6,AFT
+4793,L774,LS1-03,sandstone ,sedimentary,,Triassic,31.2324,103.8618,-3324,4.8,0.7,AFT
+4794,L774,LS1-05,sandstone ,sedimentary,,Triassic,31.2324,103.8618,-2407,12.5,1.3,AFT
+4795,L774,LS1-06,sandstone ,sedimentary,,Triassic,31.2324,103.8618,-1858,22.7,2.1,AFT
+4796,L774,LS1-08,sandstone ,sedimentary,,Triassic,31.2324,103.8618,-797,30.4,2.8,AFT
+4797,L774,LS1-09,sandstone ,sedimentary,,Triassic,31.2324,103.8618,-228,30.7,2.6,AFT
+4798,L774,LS1-10,sandstone ,sedimentary,,Triassic,31.2324,103.8618,433,34.8,2.8,AFT
+4799,L774,LS1-llb,sandstone ,sedimentary,,Triassic,31.2324,103.8618,879,73.4,4.9,AFT
+4800,L774,LS1-12,sandstone ,sedimentary,,Triassic,31.2324,103.8618,1365,70.7,4.7,AFT
+4801,L774,CK1-01,sandstone ,sedimentary,,Triassic,31.2442,104.2669,-4946,1.5,0.3,AFT
+4802,L774,CK1-03,sandstone ,sedimentary,,Triassic,31.2442,104.2669,-4619,6.5,1.1,AFT
+4803,L774,CK1-07,sandstone ,sedimentary,,Triassic,31.2442,104.2669,-3316,20.8,4.7,AFT
+4804,L774,CK1-15,sandstone ,sedimentary,,Jurassic,31.2442,104.2669,-1171,107.8,13,AFT
+4805,L774,CK1-16,sandstone ,sedimentary,,Jurassic,31.2442,104.2669,-311,97.2,8.7,AFT
+4806,L774,CK1-17,sandstone ,sedimentary,,Cambrian,31.2442,104.2669,272,129.7,7.5,AFT
+4860,L2006,B46,Siltstone,sedimentary,,Carboniferous,31.7008,104.68961,529,60,5.9,AFT
+4861,L2006,Z1,Siltstone,sedimentary,,Carboniferous,30.68915,103.53437,613,53,3,AFT
+4862,L2006,Z3,Quartz sandstone,sedimentary,,Triassic,31.0554,103.48315,879,9.2,1,AFT
+4863,L2006,Z8,Slate,Metarhyolite,,Triassic,31.69845,102.74779,2843,4.3,1,AFT
+4879,L800,HK01,granite,ignerous,,,31.14857,103.69998,1107,12.5,0.7,AFT
+4880,L800,HK02,granite,ignerous,,,31.14947,103.70001,1115,13.2,1.5,AFT
+4881,L800,HK03,granite,ignerous,,,31.15009,103.69973,1128,13.3,0.4,AFT
+4930,L911,DY-1,Granitoid,ignerous,,,30.8956,103.2975,1274,6,1.9,AFT
+4931,L911,DY-4,sandstone,sedimentary,,,30.7825,103.2283,1580,6.3,0.7,AFT
+4932,L911,DY-6,sandstone,sedimentary,,,30.7844,103.4031,813,19.6,1.7,AFT
+4933,L911,DY-7,sandstone,sedimentary,,,30.7522,103.4222,763,35.2,3.1,AFT
+4934,L911,DY-8,sandstone,sedimentary,,,30.7503,103.2183,684,44.1,3.3,AFT
+4935,L911,DY-12,sandstone,sedimentary,,Jurassic,30.6222,103.2183,919,17.8,1.6,AFT
+4936,L911,DY-13,sandstone,sedimentary,,,30.6125,103.23722,849,25.4,2.3,AFT
+4937,L911,DY-14,sandstone,sedimentary,,,30.6036,103.25528,845,20.8,1.7,AFT
+4939,L911,DY-18,sandstone,sedimentary,,,31.1128,103.2531,1684,3,1.5,AFT
+4940,L911,DY-19,sandstone,sedimentary,,,31.0988,103.3003,1481,2.8,0.6,AFT
+5087,L810,HS2,sandstone,sedimentary,,Lower cretaceous ,31.724,104.823,554,94.7,8.4,AFT
+5088,L810,HS4,sandstone,sedimentary,,Lower cretaceous ,31.768,104.801,560,101.5,4,AFT
+5089,L810,HS7,sandstone,sedimentary,,Upper Jurassic ,31.859,104.736,593,103.7,4.8,AFT
+5092,L810,HS13,sandstone,sedimentary,,Precambrian ,32.306,104.749,747,64.2,6.9,AFT
+5275,L2199,YanA,Granite,ignerous,,,32.29,102.838,3285,6.9,1.4,AFT
+5276,L2199, Yan3,Granite,ignerous,,,32.224,102.763,4612,6.2,1.9,AFT
+5277,L2199, Yan4 ,Granite,ignerous,,,32.221,102.76,4748,12.9,1.4,AFT
+5278,L2199, Yan5 ,Granite,ignerous,,,32.224,102.753,4875,8,1.5,AFT
+5583,L2204,BX-1,sandstone,sedimentary,,Triassic,30.878,102.639,3519,25.7,1.9,AFT
+5584,L2204,BX-2,sandstone,sedimentary,,Triassic,30.872,102.682,4056,27,3,AFT
+5585,L2204,BX-3,sandstone,sedimentary,,Triassic,30.84,102.729,3394,23.5,2,AFT
+5586,L2204,BX-6,sandstone,sedimentary,,Triassic,30.812,102.729,2485,1.7,1.3,AFT
+5587,L2204,BX-10,Granite,ignerous,,Proterozoic,30.636,102.842,2203,1.9,1.4,AFT
+5588,L2204,BX-11,Granite,ignerous,,Proterozoic,30.603,102.868,2268,2.9,0.8,AFT
+5592,L2204,GD-1,Granite,ignerous,,Proterozoic,31.061,103.406,1219,6.3,0.7,AFT
+5593,L2204,GD-9,sandstone,sedimentary,,Triassic,30.911,102.913,4355,8.1,1.1,AFT
+5594,L2204,GD-12,sandstone,sedimentary,,Triassic,30.964,102.651,2728,11.6,1.7,AFT
+5595,L2204,Gong-78,sandstone,sedimentary,,Triassic,30.788,102.729,2444,16.8,1,AFT
+5597,L2204,Gong-90,Granite,ignerous,,Proterozoic,30.557,102.889,1513,3.9,0.4,AFT
+5598,L2204,Gong-92,Granite,ignerous,,Proterozoic,30.512,102.915,1366,4,0.5,AFT
+5601,L2204,JY-1,sandstone,sedimentary,,Triassic,31.856,104.738,584,67.3,4.6,AFT
+5602,L2204,JY-2,sandstone,sedimentary,,Triassic,31.865,104.732,595,83.3,9.1,AFT
+5604,L2204,WCH-1,Granite,ignerous,,Proterozoic,31.327,103.399,1766,2.1,0.2,AFT
+5605,L2204,PW-12,sandstone,sedimentary,,Silurian,32.386,104.714,1121,24.4,1.9,AFT
+5647,L2206,Lm-01,Granite,ignerous,,,31.349,103.386,2026,3.2,0.6,AFT
+5648,L2206,Lm-03,Granite,ignerous,,,31.329,103.397,1752,2.5,0.6,AFT
+5649,L2206,Lm-04,Granite,ignerous,,,31.312,103.413,1569,1.9,0.4,AFT
+5651,L2206,Lm-13,sandstone,sedimentary,,,31.258,103.899,1102,37.3,6.9,AFT
+5652,L2206,Lm-14,sandstone,sedimentary,,,31.218,103.917,924,16.8,1.8,AFT
+5653,L2206,Lm-15,sandstone,sedimentary,,,31.364,103.959,1212,4.8,0.7,AFT
+5654,L2206,Lm-16,sandstone,sedimentary,,,31.347,103.979,1335,11.7,3.3,AFT
+5655,L2206,Lm-17,sandstone,sedimentary,,,31.343,103.971,1440,15,4.4,AFT
+5656,L2206,Lm-18,sandstone,sedimentary,,,31.315,103.73,1032,8.9,1.2,AFT
+5657,L2206,Lm-19,Granite,ignerous,,,31.6,103.73,1882,1.7,0.4,AFT
+5658,L2206,Lm-21,sandstone,sedimentary,,,31.069,103.637,1050,28.1,3.5,AFT
+5659,L2206,Lm-22,sandstone,sedimentary,,,31.143,103.71,1200,27.6,2.3,AFT
+5669,L2148,BX11,sandstone,sedimentary,,Ordovician,30.54,102.668,1353,7.6,1.3,AFT
+5670,L2148,BX13,meta-sandstone,Metarhyolite,,Precambrian,30.529,102.684,1313,5.3,1,AFT
+5673,L2148,BX29,meta-sandstone,Metarhyolite,,Precambrian,30.548,102.906,1485,7.4,0.8,AFT
+5727,L2147,HS36,Granite,ignerous,,Mesozoic ,32.221,102.756,4850,19.1,1.9,AFT
+5728,L2147,HS37,Granite,ignerous,,Mesozoic ,32.221,102.76,4705,16.6,1.2,AFT
+5729,L2147,HS38,Granite,ignerous,,Mesozoic ,32.238,102.784,3961,14.3,1,AFT
+5730,L2147,HS39,Granite,ignerous,,Mesozoic ,32.272,102.828,3580,8.6,0.6,AFT
+5731,L2147,HS40,Granite,ignerous,,Mesozoic ,32.28,102.844,3318,7.4,0.6,AFT
+5732,L2147,HS41,Granite,ignerous,,Mesozoic ,32.277,102.868,3040,7,0.7,AFT
+5733,L2147,HS42,Granite,ignerous,,Mesozoic ,32.192,102.898,2862,7.6,0.9,AFT
+5734,L2147,HS43,Granite,ignerous,,Mesozoic ,32.161,102.925,2560,7.6,0.7,AFT
+5742,L2151,LMW-01,igneous rock,ignerous,,Pre-Mesozoic,31.383,103.636,4174,56.5,19.8,AFT
+5743,L2151,LMW-02,igneous rock,ignerous,,Pre-Mesozoic,31.388,103.64,4009,27.6,8.1,AFT
+5744,L2151,LMW-06,igneous rock,ignerous,,Pre-Mesozoic,31.416,103.653,3212,17.8,1.6,AFT
+5745,L2151,LMW-07,igneous rock,ignerous,,Pre-Mesozoic,31.431,103.662,1908,27.2,8.7,AFT
+5746,L2151,LMW-08,igneous rock,ignerous,,Pre-Mesozoic,31.443,103.653,1670,19.9,4.2,AFT
+5747,L2151,LME-09,igneous rock,ignerous,,Pre-Mesozoic,31.291,103.648,2900,27,4.1,AFT
+5748,L2151,LME-11,igneous rock,ignerous,,Pre-Mesozoic,31.287,103.653,2500,19.8,3,AFT
+5749,L2151,LME-13,igneous rock,ignerous,,Pre-Mesozoic,31.285,103.654,2100,23.5,2.8,AFT
+5750,L2151,LME-14,igneous rock,ignerous,,Pre-Mesozoic,31.285,103.657,2000,18.4,3.1,AFT
+5751,L2151,LME-15,igneous rock,ignerous,,Pre-Mesozoic,31.283,103.66,1800,17.3,2.7,AFT
+5752,L2151,LME-16,igneous rock,ignerous,,Pre-Mesozoic,31.268,103.652,1550,21.3,5.7,AFT
+5753,L2151,LME-17,igneous rock,ignerous,,Pre-Mesozoic,31.229,103.647,1430,23,2.8,AFT
+5755,L2151,LME-19,igneous rock,ignerous,,Pre-Mesozoic,31.174,103.659,1280,15.1,2.7,AFT
+5756,L2151,LME-20,igneous rock,ignerous,,Pre-Mesozoic,31.161,103.669,1160,15,2.2,AFT
+5879,L2154,HKT15,sandstone,sedimentary,,Triassic,31.02,103.17,2081,4.9,0.9,AFT
+5885,L2154,LM01,sandstone,sedimentary,,Jurassic,31.08,103.72,799,153.5,12.9,AFT
+5886,L2154,LM03,Pegmatite,ignerous,,,31.14,103.49,987,7.7,4.5,AFT
+5887,L2154,LM04,Granite,ignerous,,Proterozoic,31.2,103.49,995,8.9,2.5,AFT
+5888,L2154,LM07,Granite,ignerous,,Proterozoic,31.07,103.45,1014,4.9,0.6,AFT
+6035,L2155,115 (Sa),sandstone,sedimentary,,,30.597,102.671,2880,7.7,1.7,AFT
+6037,L2155,117 (Sa),sandstone,sedimentary,,,30.98,102.693,2720,12,1.9,AFT
+6038,L2155,118 (Sa),sandstone,sedimentary,,,30.962,102.883,3800,14.5,3.6,AFT
+6039,L2155,119 (Sa),sandstone,sedimentary,,,30.913,102.9,4487,17.1,2.3,AFT
+7675,L1195,M-16,sandstone,sedimentary,,Paleozoic-Mesozoic,32.4476,103.6815,2650,74.6,14.3,AFT
+7677,L1195,M-20,sandstone,sedimentary,,Paleozoic-Mesozoic,32.4864,103.6518,2751,31.3,3.5,AFT
+7678,L1195,M-21,sandstone,sedimentary,,Paleozoic-Mesozoic,31.9915,103.6791,2126,24.1,2.4,AFT
+7679,L1195,M-22,sandstone,sedimentary,,Paleozoic-Mesozoic,31.856,104.7375,617,51.4,5.2,AFT
+7690,L1195,M-33,Granite,ignerous,,Mesozoic,32.4151,104.5913,1266,20.3,2.3,AFT
+7691,L1195,M-34,Granite,ignerous,,Mesozoic,32.3859,104.7135,1121,28.4,1.9,AFT
+7699,L1195,M-42,sandstone,sedimentary,,Paleozoic-Mesozoic,32.355,103.5397,2680,8.8,1.3,AFT
+7700,L1195,M-43,sandstone,sedimentary,,Paleozoic-Mesozoic,32.3797,103.4831,2780,69.7,5,AFT
+1527,72437,BX-13,Granite,ignerous,,Proterozoic,30.5289,102.913,1416,27.7,2,ZFT
+6796,L2212,FT-1,granite,ignerous,,Indosinian ,31.76,103.19,3950,68,8,ZFT
+6797,L2212,FT-4,granite,ignerous,,Indosinian ,31.76,103.19,2750,49,14,ZFT
+6798,L2212,FT-5,granite,ignerous,,Indosinian ,31.66,103.12,2400,38,4,ZFT
+5616,L2204,GD-3,sandstone,sedimentary,,Triassic,30.882,102.986,2690,71.3,9.3,ZFT
+5617,L2204,GD-6,sandstone,sedimentary,,Triassic,30.882,102.972,3460,75.7,7.8,ZFT
+1871,141057,WC02,granite,ignerous,,,31.14047,103.68473,1037,171,12,ZFT
+4866,L2006,Z25,Siltstone,sedimentary,,Triassic,31.40083,104.01567,892,178,10,ZFT
+747,75569,A1-059,sandstone,sedimentary,,Ediacaran,31.6524,104.20736,1165,239,11,ZFT
+1053,187827,L28-17,sandstone,sedimentary,Shaximiao Fm.,Middle Jurassic,30.68482,103.40739,853,119,12,ZFT
+1064,187827,L8-1,sandstone,sedimentary,Xujiahe Fm. ,Early Triassic,31.04382,103.51149,851,88,7,ZFT
+1065,187827,L8-2,Gneiss Granite,ignerous,,,31.0696,103.48419,902,128,10,ZFT
+1476,71424,KC07-57,granite,ignerous,,Precambrian,30.579,102.879,1575,13.4,0.7,ZFT
+1477,71424,KC05-10,granite,ignerous,,Precambrian,30.506,102.842,1800,13.6,1.3,ZFT
+1478,71424,KC05-13,metamorphic rock,Metarhyolite,,Precambrian,30.558,102.893,1490,11.9,1.3,ZFT
+1874,141057,WC29,granite,ignerous,,,31.06477,103.49143,847.9,73,5,ZFT
+2051,68394,WCH-8,sandstone,sedimentary,,,31.117,103.75,822,58.7,3.4,ZFT
+2052,68394,LK-4,sandstone,sedimentary,,,31.47,104.154,659,89.2,9.9,ZFT
+2053,68394,JH-5,sandstone,sedimentary,,,31.41,104.022,1090,86.2,7.9,ZFT
+2054,68394,WCH-6,sandstone,sedimentary,,,31.052,103.48,884,171.2,10.2,ZFT
+2055,68394,JH-1,Conglomerate,sedimentary,,,31.31,104.058,672,240.6,55.9,ZFT
+2056,68394,JH-2,Conglomerate,sedimentary,,,31.287,104.032,725,144.8,19.5,ZFT
+3348,51581,RW 010 ,sandstone,sedimentary,,Triassic,31.9242,103.6778,1804,84.8,4.475,ZFT
+3349,51581,RW 011 ,sandstone,sedimentary,,Triassic,32.0947,103.721,1805,63.4,4.05,ZFT
+3350,51581,RW 013 ,sandstone,sedimentary,,Triassic,32.4499,103.6792,2439,125.4,6.425,ZFT
+3351,51581,RW 045 ,sandstone,sedimentary,,Triassic,31.9856,102.6327,3268,99.7,5.175,ZFT
+3352,51581,RW 046 ,sandstone,sedimentary,,Triassic,31.8904,102.6378,3174,42.4,2.125,ZFT
+3353,51581,RW 047 ,sandstone,sedimentary,,Triassic,31.8527,102.5218,2938,111.7,5.575,ZFT
+3357,51581,RW 052 ,sandstone,sedimentary,,Triassic,31.4402,102.5072,3029,164.9,8,ZFT
+3358,51581,RW 065 ,sandstone,sedimentary,,Triassic,30.6425,102.7896,1908,35.4,2.375,ZFT
+3359,51581,RW 067 ,sandstone,sedimentary,,Triassic,30.5768,102.8775,1607,19.8,1.3925,ZFT
+4770,L774,ZH-11FT,sandstone ,sedimentary,,Triassic,32.2333,102.6,4260,104.5,5.3,ZFT
+4771,L774,ZH-13FT,Granite ,ignerous,,Triassic,32.2167,102.75,4833,93,3.9,ZFT
+4772,L774,ZH-14FT-1,Granite ,ignerous,,Triassic,32.2333,102.7833,3699,87.1,5,ZFT
+4773,L774,ZH-15FT,Granite ,ignerous,,Triassic,32.2667,102.85,3175,87.3,8,ZFT
+4774,L774,ZH-16FT,Granite ,ignerous,,Triassic,32.1667,102.9167,2665,83.3,4.2,ZFT
+4775,L774,ZH-17FT,sandstone ,sedimentary,,Triassic,32.0667,103.1333,2171,136.9,8.8,ZFT
+4776,L774,ZH-18FT,sandstone ,sedimentary,,Triassic,31.9833,103.3167,1889,87.4,3.7,ZFT
+4779,L774,1201-90,Mylonite ,Metarhyolite,,Proterozoic,31.256,103.7881,1118,262.6,16,ZFT
+4792,L774,LS1-02,sandstone ,sedimentary,,Triassic,31.2324,103.8618,-3667,199.3,11.6,ZFT
+4793,L774,LS1-03,sandstone ,sedimentary,,Triassic,31.2324,103.8618,-3324,205.9,13.8,ZFT
+4794,L774,LS1-05,sandstone ,sedimentary,,Triassic,31.2324,103.8618,-2407,205.2,17.3,ZFT
+4798,L774,LS1-10,sandstone ,sedimentary,,Triassic,31.2324,103.8618,433,272.8,23.3,ZFT
+4801,L774,CK1-01,sandstone ,sedimentary,,Triassic,31.2442,104.2669,-4946,166.6,10.4,ZFT
+4802,L774,CK1-03,sandstone ,sedimentary,,Triassic,31.2442,104.2669,-4619,161.9,15.5,ZFT
+4803,L774,CK1-07,sandstone ,sedimentary,,Triassic,31.2442,104.2669,-3316,216.1,18.6,ZFT
+4806,L774,CK1-17,sandstone ,sedimentary,,Cambrian,31.2442,104.2669,272,196.3,17.3,ZFT
+4859,L2006,B44,sandstone,sedimentary,,Precambrian,31.84572,104.47493,629,187,11,ZFT
+4860,L2006,B46,Siltstone,sedimentary,,Carboniferous,31.7008,104.68961,529,147,7,ZFT
+4861,L2006,Z1,Siltstone,sedimentary,,Carboniferous,30.68915,103.53437,613,142,9,ZFT
+4862,L2006,Z3,Quartz sandstone,sedimentary,,Triassic,31.0554,103.48315,879,144,7,ZFT
+4863,L2006,Z8,Slate,Metarhyolite,,Triassic,31.69845,102.74779,2843,69,4,ZFT
+5276,L2199, Yan3,Granite,ignerous,,,32.224,102.763,4612,61.7,4.9,ZFT
+5550,L2145,XLB16-11,basement,others,,Proterozoic,31.409,103.362,4312,8.3,0.8,ZFT
+5551,L2145,XLB16-13,basement,others,,Proterozoic,31.405,103.356,4056,9,0.6,ZFT
+5552,L2145,XLB16-16 ,basement,others,,Proterozoic,31.406,103.344,3683,8.9,0.6,ZFT
+5554,L2145,BX318 ,basement,others,,Proterozoic,31.38,103.378,2700,6.2,1,ZFT
+5555,L2145,BX317,basement,others,,Proterozoic,31.371,103.381,2500,6.1,0.7,ZFT
+5564,L2145,BX319 ,basement,others,,Proterozoic,31.394,103.383,2905,6.7,0.6,ZFT
+5592,L2204,GD-1,Granite,ignerous,,Proterozoic,31.061,103.406,1219,76.4,5.7,ZFT
+5595,L2204,Gong-78,sandstone,sedimentary,,Triassic,30.788,102.729,2444,195,11.6,ZFT
+5597,L2204,Gong-90,Granite,ignerous,,Proterozoic,30.557,102.889,1513,9.6,0.7,ZFT
+5598,L2204,Gong-92,Granite,ignerous,,Proterozoic,30.512,102.915,1366,25.6,1.7,ZFT
+5604,L2204,WCH-1,Granite,ignerous,,Proterozoic,31.327,103.399,1766,1.6,0.9,ZFT
+5608,L2204,BO-3,Schist,Metarhyolite,,Proterozoic,30.555,102.899,1557,13.2,1.1,ZFT
+5609,L2204,BX-5,sandstone,sedimentary,,Triassic,30.831,102.733,2798,18,9.1,ZFT
+5610,L2204,BX-9,Metaquartz,Metarhyolite,,Proterozoic,30.642,102.79,1955,14.1,0.9,ZFT
+5615,L2204,GD-2,Granite,ignerous,,Proterozoic,31.061,103.338,1451,64.7,8.4,ZFT
+5618,L2204,GD-10,sandstone,sedimentary,,Triassic,30.911,102.894,4389,81.9,7.8,ZFT
+5619,L2204,GD-11,sandstone,sedimentary,,Triassic,30.977,102.864,3608,63.3,5.9,ZFT
+5623,L2204,Gong-85,sandstone,sedimentary,,Devonian,30.689,102.751,2133,31.6,2.2,ZFT
+5624,L2204,Gong-91,Granite,ignerous,,Proterozoic,30.526,102.915,1462,25.1,1.4,ZFT
+5647,L2206,Lm-01,Granite,ignerous,,,31.349,103.386,2026,9.3,0.8,ZFT
+5648,L2206,Lm-03,Granite,ignerous,,,31.329,103.397,1752,8.4,0.6,ZFT
+5649,L2206,Lm-04,Granite,ignerous,,,31.312,103.413,1569,1.1,0.7,ZFT
+5657,L2206,Lm-19,Granite,ignerous,,,31.6,103.73,1882,13.4,0.9,ZFT
+5660,L2206,Lm-02,Granite,ignerous,,,31.342,103.385,1911,11.4,0.8,ZFT
+5661,L2206,Lm-05,Granite,ignerous,,,31.525,103.245,1658,12.5,1,ZFT
+5662,L2206,Lm-06,Granite,ignerous,,,31.366,103.497,1188,11.8,0.9,ZFT
+5663,L2206,Lm-07,Granite,ignerous,,,31.364,103.378,2346,10.1,0.8,ZFT
+5664,L2206,Lm-08,Granite,ignerous,,,31.356,103.374,2260,11.7,0.8,ZFT
+5665,L2206,Lm-09,Granite,ignerous,,,31.352,103.383,2147,10.3,0.9,ZFT
+5666,L2206,Lm10,sandstone,sedimentary,,,31.363,103.336,2545,10.1,0.8,ZFT
+5667,L2206,Lm11,Granite,ignerous,,,31.361,103.356,2500,10.5,0.9,ZFT
+5668,L2206,Lm20,Granite,ignerous,,,31.684,103.128,2258,42.9,2.2,ZFT
+5742,L2151,LMW-01,igneous rock,ignerous,,Pre-Mesozoic,31.383,103.636,4174,242.4,19.7,ZFT
+5745,L2151,LMW-07,igneous rock,ignerous,,Pre-Mesozoic,31.431,103.662,1908,174.6,1.8,ZFT
+5748,L2151,LME-11,igneous rock,ignerous,,Pre-Mesozoic,31.287,103.653,2500,263.1,17.6,ZFT
+5753,L2151,LME-17,igneous rock,ignerous,,Pre-Mesozoic,31.229,103.647,1430,194.8,13.2,ZFT
+5754,L2151,LME-18,igneous rock,ignerous,,Pre-Mesozoic,31.217,103.644,1390,197,23.4,ZFT
+5756,L2151,LME-20,igneous rock,ignerous,,Pre-Mesozoic,31.161,103.669,1160,369.6,21.4,ZFT
+5758,L2151,LMW-05,igneous rock,ignerous,,Pre-Mesozoic,31.413,103.653,3385,297.1,15.6,ZFT
+6035,L2155,115 (Sa),sandstone,sedimentary,,,30.597,102.671,2880,11.9,1.3,ZFT
+6037,L2155,117 (Sa),sandstone,sedimentary,,,30.98,102.693,2720,211.3,16.5,ZFT
+6038,L2155,118 (Sa),sandstone,sedimentary,,,30.962,102.883,3800,196.2,9,ZFT
+6039,L2155,119 (Sa),sandstone,sedimentary,,,30.913,102.9,4487,213.6,14.5,ZFT
+6799,L2212,FT-7,granite,ignerous,,Indosinian ,31.06,103.42,950,110,14,ZFT
+7679,L1195,M-22,sandstone,sedimentary,,Paleozoic-Mesozoic,31.856,104.7375,617,117.5,10.5,ZFT
+7680,L1195,M-23,sandstone,sedimentary,,Paleozoic-Mesozoic,31.8648,104.7323,684,130,11.8,ZFT
+7681,L1195,M-24,sandstone,sedimentary,,Paleozoic-Mesozoic,31.9711,104.6617,751,135.4,12.7,ZFT
+7691,L1195,M-34,Granite,ignerous,,Mesozoic,32.3859,104.7135,1121,74.2,14,ZFT
+7692,L1195,M-35,sandstone,sedimentary,,Paleozoic-Mesozoic,32.4076,104.99,751,75.8,4.1,ZFT
+2968,145625,BC-3a,sandstone,sedimentary,,Terreneuvian,31.87354,104.51918,736.3,124.4,7.7,ZHe
+2969,145625,BC-3b,sandstone,sedimentary,,Terreneuvian,31.87354,104.51918,736.3,136.3,8.4,ZHe
+5093,L810,HS14,granite,ignerous,,Mesozoic ,32.471,104.716,1246,104.7,3.6,ZHe
+1476,71424,KC07-57,granite,ignerous,,Precambrian,30.579,102.879,1575,5.73,0.22,ZHe
+1477,71424,KC05-10,granite,ignerous,,Precambrian,30.506,102.842,1800,9.04,1.51,ZHe
+2970,145625,GX-8a,sandstone,sedimentary,,Early Devonian,31.96444,104.66306,653.6,211.1,13.1,ZHe
+2971,145625,GX-8b,sandstone,sedimentary,,Early Devonian,31.96444,104.66306,653.6,258.5,16,ZHe
+2972,145625,GX-8c,sandstone,sedimentary,,Early Devonian,31.96444,104.66306,653.6,197.6,12.2,ZHe
+4792,L774,LS1-02,sandstone ,sedimentary,,Triassic,31.2324,103.8618,-3667,164.58,13,ZHe
+4793,L774,LS1-03,sandstone ,sedimentary,,Triassic,31.2324,103.8618,-3324,396.78,14.84,ZHe
+4794,L774,LS1-05,sandstone ,sedimentary,,Triassic,31.2324,103.8618,-2407,192.55,28.8,ZHe
+4801,L774,CK1-01,sandstone ,sedimentary,,Triassic,31.2442,104.2669,-4946,178.04,26.5,ZHe
+4802,L774,CK1-03,sandstone ,sedimentary,,Triassic,31.2442,104.2669,-4619,87.81,21.4,ZHe
+4803,L774,CK1-07,sandstone ,sedimentary,,Triassic,31.2442,104.2669,-3316,208.18,24.84,ZHe
+5276,L2199, Yan3,Granite,ignerous,,,32.224,102.763,4612,87.5,16.2,ZHe
+5277,L2199, Yan4 ,Granite,ignerous,,,32.221,102.76,4748,128.4,4,ZHe
+5278,L2199, Yan5 ,Granite,ignerous,,,32.224,102.753,4875,88.3,1.5,ZHe
+5282,L2199,GraA,Granite,ignerous,,,32.162,102.927,2566,74.1,15.2,ZHe
+5283,L2199,GraB,Granite,ignerous,,,32.198,102.894,3156,50.4,11.8,ZHe
+5284,L2199,Yan1,Granite,ignerous,,,32.231,102.782,3851,78.1,6.6,ZHe
+5285,L2199,Yan2,Granite,ignerous,,,32.228,102.77,4269,67.7,1,ZHe
+5286,L2199,Yan6,Granite,ignerous,,,32.222,102.749,5000,91.4,3,ZHe
+5379,L2202,W1425,metamorphite,Metarhyolite,,,31.415,103.526,1439,8.4,0.35,ZHe
+5380,L2202,W1848,metamorphite,Metarhyolite,,,31.439,103.499,1860,6.6,0.25,ZHe
+5381,L2202,W1848-1,metamorphite,Metarhyolite,,,31.439,103.499,1860,8.3,0.35,ZHe
+5382,L2202,W2093,metamorphite,Metarhyolite,,,31.437,103.504,1956,8.9,0.35,ZHe
+5383,L2202,W2093-1,metamorphite,Metarhyolite,,,31.437,103.504,1956,8.2,0.35,ZHe
+5384,L2202,SC062,metamorphite,Metarhyolite,,,31.351,103.898,1726,9.1,0.35,ZHe
+5385,L2202,SC065,metamorphite,Metarhyolite,,,31.357,103.854,1927,13,0.5,ZHe
+5386,L2202,LM223,metamorphite,Metarhyolite,,,31.389,103.605,2474,14.6,0.6,ZHe
+5387,L2202,LM225,metamorphite,Metarhyolite,,,31.38,103.589,3185,15.8,0.65,ZHe
+5388,L2202,LM225-1,metamorphite,Metarhyolite,,,31.38,103.589,3185,14.3,0.6,ZHe
+5389,L2202,LM226,metamorphite,Metarhyolite,,,31.378,103.591,3060,24.1,0.95,ZHe
+5390,L2202,LM226-1,metamorphite,Metarhyolite,,,31.378,103.591,3060,22.4,0.9,ZHe
+5391,L2202,LM227,metamorphite,Metarhyolite,,,31.381,103.595,2806,24.4,1,ZHe
+5392,L2202,LM227-1,metamorphite,Metarhyolite,,,31.381,103.595,2806,28.9,1.15,ZHe
+5393,L2202,LM228,metamorphite,Metarhyolite,,,31.415,103.597,2232,8.7,0.35,ZHe
+5394,L2202,LM228-1,metamorphite,Metarhyolite,,,31.415,103.597,2232,9.3,0.4,ZHe
+5395,L2202,LM229,metamorphite,Metarhyolite,,,31.425,103.576,1731,25,1,ZHe
+5396,L2202,LM229-1,metamorphite,Metarhyolite,,,31.425,103.576,1731,19.5,0.8,ZHe
+5397,L2202,LM2196,metamorphite,Metarhyolite,,,31.402,103.598,2190,7.8,0.3,ZHe
+5398,L2202,LM256,metamorphite,Metarhyolite,,,31.444,103.492,2330,13.7,0.55,ZHe
+5399,L2202,LM256-1,metamorphite,Metarhyolite,,,31.444,103.492,2330,11.2,0.45,ZHe
+5400,L2202,W1425-1,metamorphite,Metarhyolite,,,31.415,103.526,1439,9.8,0.4,ZHe
+5401,L2202,W2130,metamorphite,Metarhyolite,,,31.438,103.502,2130,11.1,0.45,ZHe
+5402,L2202,SC064,metamorphite,Metarhyolite,,,31.358,103.858,2061,19.8,0.8,ZHe
+5403,L2202,SC067,metamorphite,Metarhyolite,,,31.353,103.888,1807,12.4,0.5,ZHe
+5404,L2202,SC074,metamorphite,Metarhyolite,,,31.201,103.537,1755,2.6,0.85,ZHe
+5405,L2202,SC077,metamorphite,Metarhyolite,,,31.201,103.532,1526,7.5,0.3,ZHe
+5406,L2202,SC079,metamorphite,Metarhyolite,,,31.204,103.522,1350,3.2,0.15,ZHe
+5407,L2202,SC079-1,metamorphite,Metarhyolite,,,31.204,103.522,1350,8.6,0.35,ZHe
+5408,L2202,SC081,metamorphite,Metarhyolite,,,31.207,103.496,1056,9.9,0.4,ZHe
+5409,L2202,LM195,metamorphite,Metarhyolite,,,31.327,103.754,1495,11.6,0.225,ZHe
+5410,L2202,LM231,metamorphite,Metarhyolite,,,31.391,103.517,1295,10.1,0.2,ZHe
+5411,L2202,LM234,metamorphite,Metarhyolite,,,31.242,103.487,1130,17,0.7,ZHe
+5412,L2202,LM235,metamorphite,Metarhyolite,,,31.109,103.477,930,18.6,0.75,ZHe
+5413,L2202,SC083,metamorphite,Metarhyolite,,,31.071,103.331,1452,12.5,0.5,ZHe
+5414,L2202,SC084,metamorphite,Metarhyolite,,,31.056,103.358,1712,6.3,0.25,ZHe
+5415,L2202,SC085,metamorphite,Metarhyolite,,,31.07,103.467,939,60.7,2.45,ZHe
+5416,L2202,LM198,metamorphite,Metarhyolite,,,31.131,103.85,811,193.9,7.75,ZHe
+5417,L2202,LM208,metamorphite,Metarhyolite,,,31.349,104.032,794,228.7,9.15,ZHe
+5418,L2202,LM213,metamorphite,Metarhyolite,,,31.026,103.576,762,466.1,18.65,ZHe
+5550,L2145,XLB16-11,basement,others,,Proterozoic,31.409,103.362,4312,7,0.2,ZHe
+5551,L2145,XLB16-13,basement,others,,Proterozoic,31.405,103.356,4056,5.9,0.5,ZHe
+5552,L2145,XLB16-16 ,basement,others,,Proterozoic,31.406,103.344,3683,6.6,0.2,ZHe
+5553,L2145,XLB16-18 ,basement,others,,Proterozoic,31.399,103.332,3126,6.5,0.5,ZHe
+5554,L2145,BX318 ,basement,others,,Proterozoic,31.38,103.378,2700,5.9,0.5,ZHe
+5555,L2145,BX317,basement,others,,Proterozoic,31.371,103.381,2500,5.4,0.4,ZHe
+5557,L2145,BX321,basement,others,,Proterozoic,31.318,103.397,1728,5.4,0.2,ZHe
+5558,L2145,XLB16-21,basement,others,,Proterozoic,31.435,103.408,4922,7.1,0.5,ZHe
+5559,L2145,XLB16-23 ,basement,others,,Proterozoic,31.424,103.413,4300,7.2,0.7,ZHe
+5560,L2145,XLB16-25,basement,others,,Proterozoic,31.428,103.424,3605,6.2,0.7,ZHe
+5561,L2145,XLB16-3,basement,others,,Proterozoic,31.403,103.43,2960,6.4,0.3,ZHe
+5562,L2145,XLB16-5,basement,others,,Proterozoic,31.41,103.446,2401,6,0.3,ZHe
+5563,L2145,XLB16-7,basement,others,,Proterozoic,31.404,103.48,1827,5.4,0.6,ZHe
+5673,L2148,BX29,meta-sandstone,Metarhyolite,,Precambrian,30.548,102.906,1485,1,0.6,ZHe
+5676,L2148,BX12,meta-sandstone,Metarhyolite,,Precambrian,30.529,102.684,1377,7.6,0.5,ZHe
+5678,L2148,BX27,meta-sandstone,Metarhyolite,,Precambrian,30.584,102.875,1571,1.6,0.7,ZHe
+5679,L2148,BX28,meta-sandstone,Metarhyolite,,Precambrian,30.566,102.882,1587,7.6,0.5,ZHe
+5683,L2148,BX100,granite,ignerous,,Neoproterozoic,30.559,102.886,1516,7.1,0.4,ZHe
+5742,L2151,LMW-01,igneous rock,ignerous,,Pre-Mesozoic,31.383,103.636,4174,51.5,1.7,ZHe
+5745,L2151,LMW-07,igneous rock,ignerous,,Pre-Mesozoic,31.431,103.662,1908,25.5,2.7,ZHe
+5747,L2151,LME-09,igneous rock,ignerous,,Pre-Mesozoic,31.291,103.648,2900,37.4,2.5,ZHe
+5748,L2151,LME-11,igneous rock,ignerous,,Pre-Mesozoic,31.287,103.653,2500,33.5,0.9,ZHe
+5749,L2151,LME-13,igneous rock,ignerous,,Pre-Mesozoic,31.285,103.654,2100,33.9,1.8,ZHe
+5751,L2151,LME-15,igneous rock,ignerous,,Pre-Mesozoic,31.283,103.66,1800,31.7,2.4,ZHe
+5752,L2151,LME-16,igneous rock,ignerous,,Pre-Mesozoic,31.268,103.652,1550,23.9,1.6,ZHe
+5753,L2151,LME-17,igneous rock,ignerous,,Pre-Mesozoic,31.229,103.647,1430,22.5,1.6,ZHe
+5754,L2151,LME-18,igneous rock,ignerous,,Pre-Mesozoic,31.217,103.644,1390,24.7,0.9,ZHe
+5756,L2151,LME-20,igneous rock,ignerous,,Pre-Mesozoic,31.161,103.669,1160,18.7,7.1,ZHe
+5757,L2151,LMW-03,igneous rock,ignerous,,Pre-Mesozoic,31.398,103.645,3802,51.7,1,ZHe
+5758,L2151,LMW-05,igneous rock,ignerous,,Pre-Mesozoic,31.413,103.653,3385,44.7,3.1,ZHe
+7490,L1063,S03,sandstone,sedimentary,,Lower Jurassic,30.6181,103.23113,1030,187.872,3.1,ZHe
+7491,L1063,S01-1,sandstone,sedimentary,,Middle Jurassic,30.56633,103.26133,880,197.056,2.722,ZHe
+2968,145625,BC-3a,sandstone,sedimentary,,Terreneuvian,31.87354,104.51918,736.3,20.4,1.3,AHe
+2969,145625,BC-3b,sandstone,sedimentary,,Terreneuvian,31.87354,104.51918,736.3,14.6,0.9,AHe
+5091,L810,HS12,sandstone,sedimentary,,Silurian ,32.129,104.794,675,50,4.1,AHe
+5093,L810,HS14,granite,ignerous,,Mesozoic ,32.471,104.716,1246,62.5,2.7,AHe
+1473,71424,KC05-14,granite,ignerous,,Precambrian,30.526,102.914,1350,3.8,0.67,AHe
+1476,71424,KC07-57,granite,ignerous,,Precambrian,30.579,102.879,1575,4.26,0.5,AHe
+1477,71424,KC05-10,granite,ignerous,,Precambrian,30.506,102.842,1800,3.3,0.37,AHe
+2978,145625,BC-3c,sandstone,sedimentary,,Terreneuvian,31.87354,104.51918,736.3,8.4,0.5,AHe
+4064,44586,SS0818-5,Schist,Metarhyolite,,Ordovician,30.641,102.795,1879,2.7,0.21,AHe
+4108,44586,SS0818-9,sandstone,sedimentary,,Devonian,30.808,102.729,2430,14.2,1.04,AHe
+4109,44586,SS0818-10,sandstone,sedimentary,,Devonian,30.829,102.736,2658,4.9,0.44,AHe
+4154,44586,SS0817-6,Granite,ignerous,,Proterozoic,30.525,102.914,1360,5.2,0.38,AHe
+4158,44586,SS0818-1,Gneiss,Metarhyolite,,Triassic,30.891,102.896,1466,4.2,0.3,AHe
+4159,44586,SS0818-4,Gneiss,Metarhyolite,,Presinian,30.636,102.842,1813,4.3,0.38,AHe
+4935,L911,DY-12,sandstone,sedimentary,,Jurassic,30.6222,103.2183,919,9.03,0.23,AHe
+4938,L911,DY-15,sandstone,sedimentary,,Jurassic,30.57659,103.28003,783,13.75,0.35,AHe
+5088,L810,HS4,sandstone,sedimentary,,Lower cretaceous ,31.768,104.801,560,43.6,1.8,AHe
+5089,L810,HS7,sandstone,sedimentary,,Upper Jurassic ,31.859,104.736,593,34.5,2,AHe
+5379,L2202,W1425,metamorphite,Metarhyolite,,,31.415,103.526,1439,2.7,0.1,AHe
+5380,L2202,W1848,metamorphite,Metarhyolite,,,31.439,103.499,1860,2.1,0.1,AHe
+5381,L2202,W1848-1,metamorphite,Metarhyolite,,,31.439,103.499,1860,2.5,0.1,AHe
+5382,L2202,W2093,metamorphite,Metarhyolite,,,31.437,103.504,1956,2.3,0.1,AHe
+5383,L2202,W2093-1,metamorphite,Metarhyolite,,,31.437,103.504,1956,2.3,0.1,AHe
+5384,L2202,SC062,metamorphite,Metarhyolite,,,31.351,103.898,1726,4.8,0.2,AHe
+5385,L2202,SC065,metamorphite,Metarhyolite,,,31.357,103.854,1927,4.6,0.2,AHe
+5550,L2145,XLB16-11,basement,others,,Proterozoic,31.409,103.362,4312,4.1,0.2,AHe
+5551,L2145,XLB16-13,basement,others,,Proterozoic,31.405,103.356,4056,3,0.4,AHe
+5552,L2145,XLB16-16 ,basement,others,,Proterozoic,31.406,103.344,3683,3.9,0.1,AHe
+5553,L2145,XLB16-18 ,basement,others,,Proterozoic,31.399,103.332,3126,3,0.2,AHe
+5554,L2145,BX318 ,basement,others,,Proterozoic,31.38,103.378,2700,3.6,0.3,AHe
+5555,L2145,BX317,basement,others,,Proterozoic,31.371,103.381,2500,2.8,0.3,AHe
+5556,L2145, BX316 ,basement,others,,Proterozoic,31.35,103.386,2107,2.5,0.1,AHe
+5557,L2145,BX321,basement,others,,Proterozoic,31.318,103.397,1728,2.4,0.1,AHe
+5742,L2151,LMW-01,igneous rock,ignerous,,Pre-Mesozoic,31.383,103.636,4174,22.6,0.4,AHe
+5743,L2151,LMW-02,igneous rock,ignerous,,Pre-Mesozoic,31.388,103.64,4009,0.8,0.6,AHe
+5744,L2151,LMW-06,igneous rock,ignerous,,Pre-Mesozoic,31.416,103.653,3212,2.9,1.1,AHe
+5745,L2151,LMW-07,igneous rock,ignerous,,Pre-Mesozoic,31.431,103.662,1908,1.9,0.3,AHe
+5746,L2151,LMW-08,igneous rock,ignerous,,Pre-Mesozoic,31.443,103.653,1670,8.5,0.6,AHe
+5747,L2151,LME-09,igneous rock,ignerous,,Pre-Mesozoic,31.291,103.648,2900,7.1,1.1,AHe
+5748,L2151,LME-11,igneous rock,ignerous,,Pre-Mesozoic,31.287,103.653,2500,2.9,0.2,AHe
+5749,L2151,LME-13,igneous rock,ignerous,,Pre-Mesozoic,31.285,103.654,2100,4.9,0.7,AHe
+5750,L2151,LME-14,igneous rock,ignerous,,Pre-Mesozoic,31.285,103.657,2000,1.1,0.6,AHe
+5751,L2151,LME-15,igneous rock,ignerous,,Pre-Mesozoic,31.283,103.66,1800,7.7,1.9,AHe
+5752,L2151,LME-16,igneous rock,ignerous,,Pre-Mesozoic,31.268,103.652,1550,2.1,0.2,AHe
+5753,L2151,LME-17,igneous rock,ignerous,,Pre-Mesozoic,31.229,103.647,1430,2.5,0.1,AHe
+5754,L2151,LME-18,igneous rock,ignerous,,Pre-Mesozoic,31.217,103.644,1390,2.9,0.4,AHe
+5755,L2151,LME-19,igneous rock,ignerous,,Pre-Mesozoic,31.174,103.659,1280,4.7,0.4,AHe
+5756,L2151,LME-20,igneous rock,ignerous,,Pre-Mesozoic,31.161,103.669,1160,4.1,0.3,AHe
+7489,L1063,S02-3,Metamorphic rock,Metarhyolite,,Precambrian,30.63689,103.17031,1570,14.602,0.346,AHe
+7490,L1063,S03,sandstone,sedimentary,,Lower Jurassic,30.6181,103.23113,1030,19.12,0.274,AHe
+7491,L1063,S01-1,sandstone,sedimentary,,Middle Jurassic,30.56633,103.26133,880,21.93,0.31,AHe
