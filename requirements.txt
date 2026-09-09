@@ -1,0 +1,11 @@
+# Python >= 3.13
+
+# Core numerical computation
+numpy >= 2.3
+numba >= 0.62
+
+# Optional: GEE for download.py
+# earthengine-api >= 1.7.9
+
+# Optional: Matplotlib for mapper.py
+# matplotlib >= 3.10.6
