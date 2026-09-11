@@ -6,6 +6,11 @@ GLIDE 2.0 is a program for reconstructing spatial and temporal exhumation-rate h
 
 The original GLIDE algorithm was developed by Fox et al. (2014) in Fortran. Version 2.0 was rewritten in Python and further optimized by Ren et al. (2026, unpublished), providing a standalone interface and additional tools for data preparation and visualization.
 
+There are two ways to download the program:
+
+1. Python code version: download through “Code” – “Download ZIP”;
+2. exe-file version: download through “Release” and choose the latest exe version.
+
 ## Overview
 
 GLIDE performs linear inversions of thermochronological ages to estimate spatial and temporal exhumation rate distributions. The program integrates:
