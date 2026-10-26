@@ -145,31 +145,19 @@ def parameters(m: Matr, p: Parm, cfg: GlideConfig):
                 lat[ii, jj] = lat_full[i, j]
                 topob[ii, jj] = topob_full[i, j]
 
-    # ---------------------------------------
     # Time stepping
-    # ---------------------------------------
     p.m_max = int(p.t_total / p.deltat) + 1
-    m.tsteps = np.full(30, p.deltat)
-    m.tsteps_sum = np.zeros(30)
+    m.tsteps = np.full(p.m_max, p.deltat)
+    m.tsteps_sum = np.zeros(p.m_max)
     m.tsteps_sum[0] = m.tsteps[0]
 
-    for i in range(1, 30):
+    for i in range(1, p.m_max):
         m.tsteps_sum[i] = m.tsteps_sum[i-1] + m.tsteps[i]
-
-    summ = 0.0
-    k = 1
-    p.m_max = 0
-    while summ < p.t_total and k < 30:
-        summ += m.tsteps[k]
-        k += 1
-    p.m_max = k
 
     m.edot_pr = np.empty(p.n * p.m_max)
     m.edot_pr_dum = np.empty(p.dummy * p.m_max)
 
-    # ---------------------------------------
     # Prior exhumation rate model
-    # ---------------------------------------
     xtime = p.t_total
     for j in range(p.m_max):
         xtime = xtime - p.deltat
@@ -180,18 +168,14 @@ def parameters(m: Matr, p: Parm, cfg: GlideConfig):
             index = j + i * p.m_max
             m.edot_pr_dum[index] = p.edot_mean
 
-    # ---------------------------------------
     # Thermochronometric system counts
-    # ---------------------------------------
     m.nsystems = np.zeros(8, dtype=np.int64)
     for i in range(p.n):
         m.nsystems[m.isys[i] - 1] += 1
 
     m.ages = np.zeros((8, 5))
 
-    # ---------------------------------------
     # Thermal correction
-    # ---------------------------------------
     mean_elev = np.mean(topob)
     p.Ts = p.Ts - mean_elev * cfg.grad /1000
     p.zl = p.zl + (mean_elev / 1000.0)
@@ -214,10 +198,9 @@ def parameters(m: Matr, p: Parm, cfg: GlideConfig):
         m.x[i] = (m.x_true[i] - p.lon1) * 111.11 * colat
         m.y[i] = (m.y_true[i] - p.lat1) * 111.11
         m.elev[i] = (m.elev[i] - m.zc[i]) / 1000.0
-
     m.zc = m.zz.copy()
     return
-
+  
 @njit
 def prior_zc(m, p):
 #This subroutine calculates closure depths 
@@ -275,7 +258,6 @@ def prior_zc(m, p):
     m.ages[~mask, :] = np.nan
     return
 
-@njit
 def isotherm(m, p, nx, ny, elev, lon, lat):
 #This routine calculates the perturbation of isotherms due to topography.
 #This is solved in frequency space so the code proceeds as follows:
@@ -326,8 +308,8 @@ def isotherm(m, p, nx, ny, elev, lon, lat):
     xl = (nx_2 -1) * xstep
     yl = (ny_2 -1) * ystep
     # 2D FFT using Numba's object mode
-    with objmode(a_ffted='complex64[:,:]'):
-        a_ffted = np.fft.fft2(a)
+    #with objmode(a_ffted='complex64[:,:]'):
+    a_ffted = np.fft.fft2(a)
 
     factor = 1.0/ (size*size)
     # grid spacing in meters
@@ -346,9 +328,8 @@ def isotherm(m, p, nx, ny, elev, lon, lat):
     s = np.zeros((nx, ny, nsys))
     # thermal parameters setup
     edot = p.edot_mean
-    kappa = 30.0
+    kappa = p.kappa *1000000.0
     edot = edot *1000.0
-    kappa = kappa *1000000.0
     pec = edot / (2.0* kappa)
     
     # loop through systems
@@ -368,8 +349,8 @@ def isotherm(m, p, nx, ny, elev, lon, lat):
         # apply filter in frequency domain
         a = wave(a, size, factor, ny_2, nx_2, kdy, kdx, pec, A_o, depth)
         # inverse 2D FFT back to spatial domain
-        with objmode(a='complex64[:,:]'):
-            a = np.fft.ifft2(a)*(size*size)
+        #with objmode(a='complex64[:,:]'):
+        a = np.fft.ifft2(a)*(size*size)
         
         # extract filtered topography, real part
         s[:, :, sys] = np.real(a[nx1-1:nx1-1+nx, ny1-1:ny1-1+ny])
