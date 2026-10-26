@@ -161,15 +161,3 @@ def bilinear(u, t, zc, depth1, s, elev, melev, idx, i, i1, j1):
                     u   *   t   *elev[ i1 , j1 ] +
                     u   *(1.0-t)*elev[ i1 ,j1+1] - melev[i])
     return zc, depth1
-
-@njit
-def herror(A):
-    n,m = A.shape
-    err = 0.0
-    for i in range(n):
-        for j in range(m):
-            ii = (-i)%n
-            jj = (-j)%m
-            err = max(err,
-                      abs(A[ii,jj]-np.conj(A[i,j])))
-    return err
